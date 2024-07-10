@@ -1,4 +1,4 @@
-# PenguinsML: Comprehensive Analysis of the Iris Dataset
+# PenguinsML: Comprehensive Analysis of the Penguins Dataset
 Welcome to the PenguinsML repository! This project provides an in-depth exploration of the Penguin dataset, covering various aspects of machine learning. Whether you’re a beginner or an experienced practitioner, you’ll find valuable insights and code examples here.
 
 ## Features:
